@@ -1,11 +1,11 @@
 .pessoa__imagem {
+  background-position: center;
+  border-radius: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 300px;
   margin: 0 auto;
   width: 300px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  border-radius: 100%;
 }
 
 .pessoa__imagem--roberta {
